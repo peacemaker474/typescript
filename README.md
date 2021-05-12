@@ -1,5 +1,5 @@
 # typescript
-Clone coding study (nomadcorder)
+Clone coding study (nomadcorder) 
 
 // 기본적인 개념 이해 완료
 
